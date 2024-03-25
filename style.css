@@ -3,13 +3,28 @@
 body
 {
 background-color: black;
-color: red;
+background: rgb(63,94,251);
+background: rgb(34,193,195);
+background: rgb(253,45,45);
+background: rgb(203,202,219);
+background: linear-gradient(90deg, rgba(203,202,219,1) 0%, rgba(69,69,189,1) 35%, rgba(41,150,172,1) 100%);
+color: black;
 font-size: 12pt;
 font-family:Arial;
+text-align: center;
 }
 
 h1
 {
   color: write;
   font-size: 20pt;
+}
+
+.coco{
+  width: 350px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
 }
